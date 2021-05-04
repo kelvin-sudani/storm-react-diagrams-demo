@@ -25,7 +25,8 @@ class DemoFive extends React.Component {
         <ul>
           <li>Click and drag any node into dark region </li>
           <li>
-            Connect any nodes by clicking the ports in bottom left of a node{" "}
+            Connect any nodes by clicking a port (in bottom left corner of a
+            node) and then dragging the cursor to other node's port
           </li>
           <li>
             Shift + Left mouse click to select a link, then press
